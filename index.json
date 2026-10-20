@@ -1,0 +1,11 @@
+{
+  "org": "klen",
+  "repo": "asgi-babel",
+  "versions": [
+    {
+      "commit": "c29ba605f829343641d96ef8f845660450bb4e38",
+      "tag": "",
+      "parsed_at": "2026-10-20T21:17:44.479619+00:00"
+    }
+  ]
+}
