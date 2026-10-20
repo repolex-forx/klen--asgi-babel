@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/klen/asgi-babel/commit/c29ba605f829343641d96ef8f845660450bb4e38",
       "git:hexsha": "c29ba605f829343641d96ef8f845660450bb4e38",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/klen/asgi-babel/commit/8a0d3bb2bd21e407c0a2be46ed3eea0de64e3930",
